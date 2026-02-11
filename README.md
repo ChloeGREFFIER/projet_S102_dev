@@ -1,9 +1,9 @@
 
 ALGORITHME DE RECHERCHE DANS DICTIONNAIRE  
-la recherche choisie est la recherche dichotomique, nous avons 
+la recherche choisie est la recherche dichotomique, j'ai 
 choisis cette recherche car elle était plus rapide et 
-applicable car le dictionnaire est trié dans le fichier, nous 
-avons choisi la recherche dichotomique simple et non petit car 
+applicable car le dictionnaire est trié dans le fichier, j'ai
+choisi la recherche dichotomique simple et non petit car 
 chaque tuile a un nom différent donc l’indice trouvé est 
 forcément le premier .
 
@@ -14,7 +14,7 @@ avec les tuiles sont les coordonnées des cases à l'écran et
 celles de l’affichage et la position des personnages sont en 
 coordonnées de pixels ( la conversions est faite avec 
 TAILLE_CASE ) 
-Nous avons stocké les position pour les personnages en pixel 
+j'ai stocké les position pour les personnages en pixel 
 pour simplifier une possible animation ( si on voulait 
 déplacer le personnage en glissant et non en passant d’une 
 case à une autre directement )   
